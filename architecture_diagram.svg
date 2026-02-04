@@ -1,0 +1,32 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="400" cy="400" r="330" fill="none" stroke="#ddd" stroke-width="2"/>
+
+  <!-- States -->
+  <g font-family="Inter, Arial" font-size="16" fill="#333" text-anchor="middle">
+    <text x="400" y="90">SENSING</text>
+    <text x="610" y="190">EXPRESSING</text>
+    <text x="710" y="400">REORIENT</text>
+    <text x="610" y="610">PLAN</text>
+    <text x="400" y="710">DEVELOP</text>
+    <text x="190" y="610">FUNCTION</text>
+    <text x="90" y="400">ENGAGE</text>
+    <text x="190" y="190">FEEDBACK</text>
+  </g>
+
+  <!-- Quadrants -->
+  <g font-family="Inter, Arial" font-size="14" fill="#777">
+    <text x="400" y="30">SELF</text>
+    <text x="770" y="400">TEAM</text>
+    <text x="400" y="790">PRODUCT</text>
+    <text x="30" y="400">USER</text>
+  </g>
+
+  <!-- Center -->
+  <circle cx="400" cy="400" r="60" fill="#f7f7f7" stroke="#ccc"/>
+  <text x="400" y="405" text-anchor="middle" font-size="13" fill="#555">
+    EXECUTION
+  </text>
+
+  <!-- Boundary -->
+  <line x1="400" y1="0" x2="400" y2="800" stroke="#bbb" stroke-dasharray="6,6"/>
+</svg>
