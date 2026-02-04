@@ -1,3 +1,5 @@
+![Agent Execution Architecture](architecture_diagram.png)
+
 # The Agent Execution Constitution
 A general-purpose reference architecture for multi-agent execution systems.
 
