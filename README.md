@@ -77,3 +77,33 @@ It never operates between agents and may reopen only when feedback contradicts t
 ---
 
 ## Repository Structure
+/00-introduction
+/01-core-doctrine
+/02-agent-roster
+/03-8-state-machine
+/04-quadrants
+/05-implementation-notes
+
+---
+
+## Intended Use
+
+This repository may be used as:
+- a reference architecture
+- a system prompt foundation
+- a basis for orchestration schemas
+- a conceptual backbone for agent frameworks
+
+The core doctrine is intended to remain stable.
+
+---
+
+## Maintainer
+
+Maintained by Alon Braun  
+Creator of *The Entrepreneur’s Journey*  
+Focus: execution systems, agent collaboration, decision frameworks  
+
+LinkedIn: https://www.linkedin.com/in/alonbraun
+
+
